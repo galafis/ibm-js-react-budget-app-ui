@@ -23,4 +23,4 @@ Este projeto reflete os conceitos ensinados nos módulos focados em desenvolvime
 *   `LICENSE`: Licença MIT.
 *   `.gitignore`: Arquivo gitignore padrão para Node (gerado automaticamente).
 
-**Observação:** O código neste repositório é intencionalmente simples (apenas a estrutura básica e um componente `App.js`), focando em demonstrar a configuração inicial de um projeto React de forma concisa, conforme a solicitação de economia de recursos. Não inclui instalação de dependências ou build completo para economizar créditos.
+**Observação:** O código neste repositório é intencionalmente simples (apenas a estrutura básica e um componente `App.js`), focando em demonstrar a configuração inicial de um projeto React de forma concisa. Não inclui instalação de dependências ou build completo.
