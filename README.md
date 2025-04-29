@@ -1,6 +1,6 @@
 # Repositório: UI de App de Orçamento com React (IBM Full-Stack JS)
 
-Este repositório demonstra as habilidades em **React** adquiridas no programa **IBM Full-Stack JavaScript Developer Professional Certificate**.
+Este repositório,feito por mim, demonstra as habilidades em **React** adquiridas no programa **IBM Full-Stack JavaScript Developer Professional Certificate**.
 
 ## Objetivo
 
